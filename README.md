@@ -51,6 +51,10 @@
  6 - Sera feito o download do repositorio no seu desktop; </br>
  7 - Assim que terminar o download acesse a pasta <strong>tex-projeto-sobre</strong> e execute clicando duas vezes no arquivo index.html, que sera aberto no seu navegador padrao.
  
+ <strong>OU</strong>
+ 
+ Acesse o projeto sem baixa-lo em sua maquina, diretamente pelo link: https://habacuquecl.github.io/tex-pagina-sobre/
+ 
  ---
  
 ### Redes
