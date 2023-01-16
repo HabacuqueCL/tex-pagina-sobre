@@ -1,8 +1,8 @@
 # Projeto de pagina "sobre" de um site focado em hotelaria
 
-## Projeto individual solicitada em uma das aulas pelo professor <a href="https://www.linkedin.com/in/coach-roque-fernando/">Roque Fernando</a> da <a href="https://texperts.com.br/">T.EX (Technology Experts)</a> com foco no que foi aprendido nas aulas de HTML e CSS.
+### Projeto individual solicitada em uma das aulas pelo professor <a href="https://www.linkedin.com/in/coach-roque-fernando/">Roque Fernando</a> da <a href="https://texperts.com.br/">T.EX (Technology Experts)</a> com foco no que foi aprendido nas aulas de HTML e CSS.
 
-### O que me foi pedido:
+## O que me foi pedido:
 
  - Criar uma versão da página Sobre, baseado em um projeto de um site hoteleiro, utilizando as tecnologias HTML e CSS;
  - Aplicar cabeçalho e rodapé;
@@ -13,7 +13,7 @@
 
  ---
 
-### Tecnologias utilizadas no projeto:
+## Tecnologias utilizadas:
 
 <a href="https://www.w3schools.com/html/"><img width="50px" src="https://user-images.githubusercontent.com/76459904/212593847-a31e854c-2395-4c2e-89ea-2d62c59abd4a.png"></a>
 <a href="https://www.w3schools.com/css/"><img width="50px" src="https://user-images.githubusercontent.com/76459904/212593901-589ac54b-fd0e-4a96-a16e-774cf694f820.png"></a>
@@ -24,6 +24,31 @@
 <a href="https://github.com/"><img width="50px" src="https://user-images.githubusercontent.com/76459904/212594287-95674d16-9a60-459c-b8dc-579a80b89d37.png"></a>
 <a href="https://www.gimp.org/"><img width="50px" src="https://user-images.githubusercontent.com/76459904/212592902-257ea65d-5284-4240-9fe4-ba82c14c88a6.png"></a>
 
+ ---
+ 
+ ## Como executar o projeto
+ 
+ Itens necessarios:
+  - <a href="https://git-scm.com/downloads">Git</a> 
+  - <a href="https://www.7-zip.org/download.html">7zip</a> ou <a href="https://www.win-rar.com/download.html?&L=0">WinRar</a>
+  - Navegadores (<a href="https://www.google.com/chrome/?brand=CHBD&brand=CHBD&gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT9jr_q7d-drScf3drryXzc7vCJutmgOVQ8NWf80KS_nmJS685BL7mkaAmb7EALw_wcB&gclsrc=aw.ds">Google Chrome</a>, <a href="https://www.mozilla.org/pt-BR/firefox/new/">Mozilla Firefox</a>, <a href="https://support.apple.com/pt_BR/downloads/safari">Safari (Mac - iOS)</a>, etc.
+ 
+ #### Baixar o arquivo .zip do projeto
+ 
+ 1 - Na pagina do projeto clique no botao <img src="https://user-images.githubusercontent.com/76459904/212737801-b701edb2-895a-4859-b5cc-c0092142cf0c.png" width="70px"> localizado no canto superior direito da pagina;</br>
+ 2 - Na janela que se abre clique em <strong>Download ZIP</strong>; </br>
+ 3 - Sera feito o download do arquivo .zip do projeto em sua maquina; </br>
+ 4 - Feito o download utilize o <a href="https://www.7-zip.org/download.html">7zip</a> ou <a href="https://www.win-rar.com/download.html?&L=0">WinRar</a> para descompactar os arquivos; </br>
+ 5 - Entre na pasta do projeto descompactado e execute o arquivo index.html clicando duas vezes assim fazendo ele abrir no navegador padrao do seu computador.
+ 
+ #### Baixar o projeto utilizando Git
+ 
+ 1 - Na pagina do projeto clique no botao <img src="https://user-images.githubusercontent.com/76459904/212737801-b701edb2-895a-4859-b5cc-c0092142cf0c.png" width="70px"> localizado no canto superior direito da pagina;</br>
+ 2 - Na janela que se abre clique na aba <strong>HTML</strong> e depois copie o link https://github.com/HabacuqueCL/repo-img.git; </br>
+ 3 - Apos copiar o link instale o <a href="https://git-scm.com/downloads">Git</a> em seu computador;
+ 4 - Com o git instalado no Linux clique com o botao direito no desktop e depois clique em <strong>"Abrir no terminal"</strong>, caso esteja usando Windows, clique com o botao direito na area de trabalho e clique em <strong>"Git Bash Here"</strong> para abrir o terminal do git.
+ 5 - com o terminal aberto digite git clone e cole o link do repositorio que copiou anteriormente (ex: git clone)
+ 
  ---
  
 ### Redes
