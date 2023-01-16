@@ -44,10 +44,12 @@
  #### Baixar o projeto utilizando Git
  
  1 - Na pagina do projeto clique no botao <img src="https://user-images.githubusercontent.com/76459904/212737801-b701edb2-895a-4859-b5cc-c0092142cf0c.png" width="70px"> localizado no canto superior direito da pagina;</br>
- 2 - Na janela que se abre clique na aba <strong>HTML</strong> e depois copie o link https://github.com/HabacuqueCL/repo-img.git; </br>
- 3 - Apos copiar o link instale o <a href="https://git-scm.com/downloads">Git</a> em seu computador;
- 4 - Com o git instalado no Linux clique com o botao direito no desktop e depois clique em <strong>"Abrir no terminal"</strong>, caso esteja usando Windows, clique com o botao direito na area de trabalho e clique em <strong>"Git Bash Here"</strong> para abrir o terminal do git.
- 5 - com o terminal aberto digite git clone e cole o link do repositorio que copiou anteriormente (ex: git clone)
+ 2 - Na janela que se abre clique na aba <strong>HTML</strong> e depois copie o link https://github.com/HabacuqueCL/tex-pagina-sobre.git; </br>
+ 3 - Apos copiar o link instale o <a href="https://git-scm.com/downloads">Git</a> em seu computador; </br>
+ 4 - Com o git instalado no Linux clique com o botao direito no desktop e depois clique em <strong>"Abrir no terminal"</strong>, caso esteja usando Windows, clique com o botao direito na area de trabalho e clique em <strong>"Git Bash Here"</strong> para abrir o terminal do git. </br>
+ 5 - Com o terminal aberto digite <strong>git clone</strong> e cole o link do repositorio que copiou anteriormente (ex: git clone https://github.com/HabacuqueCL/tex-pagina-sobre.git) e aperte enter; </br>
+ 6 - Sera feito o download do repositorio no seu desktop; </br>
+ 7 - Assim que terminar o download acesse a pasta <strong>tex-projeto-sobre</strong> e execute clicando duas vezes no arquivo index.html, que sera aberto no seu navegador padrao.
  
  ---
  
